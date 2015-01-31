@@ -1,4 +1,4 @@
-# Learning Socket.io 
+# Understanding Socket.io: chat-app
 
 http://loictalhouarne.com/socket.html
 
