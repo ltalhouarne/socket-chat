@@ -1,22 +1,22 @@
 {
-"name": "socket",
-"version": "1.0.0",
-"description": "hihi",
-"main": "server.js",
-"scripts": {
-"test": "echo \"Error: no test specified\" && exit 1"
-},
-"keywords": [
-"test",
-"heroku"
-],
-"author": "lolo",
-"license": "MIT",
-"dependencies": {
-"express": "4.10.2",
-"socket.io": "1.2.0"
-},
-"engines": {
-"node": "0.10.x"
-}
+    "name": "socket",
+    "version": "1.0.0",
+    "description": "hihi",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "test",
+        "heroku"
+    ],
+    "author": "lolo",
+    "license": "MIT",
+    "dependencies": {
+        "express": "4.10.2",
+        "socket.io": "1.2.0"
+    },
+    "engines": {
+        "node": "0.10.x"
+    }
 }
