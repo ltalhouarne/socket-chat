@@ -1,11 +1,22 @@
 {
-    "name": "socket",
-    "version": "0.0.1",
-    "description": "socket.io app",
-    "dependencies": {
-	"node": "0.10.35",
-	"npm": "1.4.28",
-        "express": "4.10.2",
-        "socket.io": "1.2.0"
-    }
+"name": "socket",
+"version": "1.0.0",
+"description": "hihi",
+"main": "server.js",
+"scripts": {
+"test": "echo \"Error: no test specified\" && exit 1"
+},
+"keywords": [
+"test",
+"heroku"
+],
+"author": "lolo",
+"license": "MIT",
+"dependencies": {
+"express": "4.10.2",
+"socket.io": "1.2.0"
+},
+"engines": {
+"node": "0.10.x"
+}
 }
