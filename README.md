@@ -1,4 +1,6 @@
-# Understanding Socket.io: chat-app
+# Learning Socket.io: chat-app
+
+Heroku hosted - Node/Express/Socket.io
 
 http://loictalhouarne.com/socket.html
 
